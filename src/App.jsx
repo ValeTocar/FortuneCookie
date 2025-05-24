@@ -38,8 +38,11 @@ function App() {
 				<button className="button" onClick={handleClick}>
 					<strong>Abrir Galleta</strong>
 				</button>
+				
 			</div>
+
 		</div>
+		
 	);
 }
 
